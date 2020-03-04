@@ -5,8 +5,8 @@ account: mmmdata
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1898553
-bundleId: 2848902
+bundleId: 2848931
 url: https://mmmdata.shinyapps.io/itemselectr/
-when: 1583281988.1991
+when: 1583282939.99096
 asMultiple: FALSE
 asStatic: FALSE
