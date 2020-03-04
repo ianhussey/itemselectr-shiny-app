@@ -1,0 +1,12 @@
+name: itemselectr
+title: itemselectr
+username:
+account: mmmdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1898553
+bundleId: 2848902
+url: https://mmmdata.shinyapps.io/itemselectr/
+when: 1583281988.1991
+asMultiple: FALSE
+asStatic: FALSE
